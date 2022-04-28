@@ -1,4 +1,4 @@
-# This is my submital for module 1 reformating assignment due on 4/28/2022
+This is my submital for module 1 reformating assignment due on 4/28/2022
 
 ![screenshot](./screenshot/Capture.PNG)
 
